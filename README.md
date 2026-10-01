@@ -25,6 +25,7 @@ Much of this production work lives in private company repositories. My [portfoli
 - **[ManageIt API](https://github.com/HaiderAli-Ravian/manageit-backend):** NestJS and PostgreSQL task-management API with cookie-based authentication, role-based access, migrations, activity tracking, and tests.
 - **[ManageIt frontend](https://github.com/HaiderAli-Ravian/manageit-frontend):** Next.js application demonstrating typed API integration, URL-based filters, optimistic updates, and session refresh handling.
 - **[Bundle Builder](https://github.com/HaiderAli-Ravian/bundle-builder):** React and TypeScript assessment demonstrating variant-aware state, integer-cent pricing, accessible interactions, persistence, and focused tests.
+- **[Tennis Dashboard](https://github.com/HaiderAli-Ravian/tennis):** Responsive Next.js and TypeScript dashboard showcase with mock score data, accessible interactions, charts, and a typed API service layer.
 
 These repositories include assessments and reference implementations; they are separate from my proprietary production work.
 
