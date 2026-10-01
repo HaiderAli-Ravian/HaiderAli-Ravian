@@ -10,10 +10,10 @@ My work spans product features, dashboards, REST APIs, authentication and role-b
 
 ## Production experience
 
-- **Grace AI:** Built an AI receptionist SaaS for Australian trade businesses, including dashboards, booking workflows, customer management, subscription billing, voice-agent API integration, and OAuth-based ServiceM8 synchronization through webhooks.
-- **Oper8 / Meydan Personal Assistant AI:** Built and contributed to onboarding, configuration dashboards, a unified calls and emails inbox, website-based knowledge ingestion, and Gmail/Outlook auto-reply workflows for a UAE AI receptionist platform.
-- **Rockstar Color Visualizer:** Built an AI-powered paint visualization platform using Next.js, FastAPI, and Meta’s Segment Anything Model.
-- **TeleDental:** Built a multi-role healthcare platform with media uploads, messaging, scheduling, and virtual consultations.
+- **[Grace AI](https://haiderali.dev/work/grace-ai):** Built an AI receptionist SaaS for Australian trade businesses, including dashboards, booking workflows, customer management, subscription billing, voice-agent API integration, and OAuth-based ServiceM8 synchronization through webhooks.
+- **[Oper8 / Meydan Personal Assistant AI](https://haiderali.dev/work/meydan-pa):** Built and contributed to onboarding, configuration dashboards, a unified calls and emails inbox, website-based knowledge ingestion, and Gmail/Outlook auto-reply workflows for a UAE AI receptionist platform.
+- **[Rockstar Color Visualizer](https://haiderali.dev/work/color-visualization):** Built an AI-powered paint visualization platform using Next.js, FastAPI, and Meta’s Segment Anything Model.
+- **[TeleDental](https://haiderali.dev/work/teledental):** Built a multi-role healthcare platform with media uploads, messaging, scheduling, and virtual consultations.
 
 Additional work includes Astromegistus, Care Compass backend APIs, a multi-tenant lawn-service SaaS, an internal CRM, and GCU Lahore’s university CMS.
 
